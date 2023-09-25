@@ -1,0 +1,8 @@
+[rmachines]
+192.168.56.103 apache_package=apache2 php_package=libapache2-mod-php python_package=python3 pip_package=python3-pip java_package=openjdk new_user=ansible_user
+
+[centos]
+192.168.56.105 apache_package=httpd php_package=php python_package=python3 pip_package=python3-pip java_package=java-11-open-jdk-devel new_user=ansible_user
+
+
+
